@@ -27,3 +27,15 @@ yarn build
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+
+## Features
+
+- [ ] Clean Architecture
+- [ ] ESLint
+- [ ] Prettier
+- [ ] Husky
+- [ ] Lint-staged
+- [x] TailwindCSS
+- [ ] Firebase
+- [ ] Jest
+- [ ] CI/CD
